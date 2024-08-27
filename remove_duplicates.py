@@ -1,4 +1,8 @@
-##########Remove anydata duplicates using function#################
+##########Remove anydata duplicates without using function#################
+# values = ['20', '30', '40','30', 10]
+# unique_values = list(dict.fromkeys(values))
+# print(unique_values)
+# ##########Remove anydata duplicates using function#################
 def remove_duplicates(original_list):
     seen = set()
     result = []
@@ -10,10 +14,6 @@ def remove_duplicates(original_list):
 values = ['20', '30', '40','30', 10,'True','True']
 unique_list = remove_duplicates(values)
 print(unique_list)
-##########Remove anydata duplicates using function#################
-# values = ['20', '30', '40','30', 10]
-# unique_values = list(dict.fromkeys(values))
-# print(unique_values)
 
 ##########Remove string duplicates without function#################
 # data = "hammer"
