@@ -1,0 +1,53 @@
+Tuesday June 29 2021
+<<<<OUTBOUND  06:18:40:947 Eventid:52001(7)
+
+CDR ELEMENTS FOLLOW
+  recordType                           RECORD
+  servedIMSI                           123456789
+  p_GWAddress                          10.0.0.1
+  chargingID                           1364546894
+  servingNodeAddress                   10.0.0.1
+  accessPointNameNI                    2c
+  pdpType                              IPV4
+  servedPDPPDNAddress                  10.0.0.1
+  dynamicAddressFlag                   TRUE
+  recordOpeningTime                    210629061509-0700
+  duration                             181
+  causeForRecClosing                   Normal Release
+  recordExtensions                      
+
+Tuesday June 29 2021
+<<<<OUTBOUND  06:18:39:947 Eventid:52001(7)
+
+CDR ELEMENTS FOLLOW
+  recordType                           RECORD
+  servedIMSI                           123456780
+  p_GWAddress                          10.0.0.1
+  chargingID                           1364546895
+  servingNodeAddress                   10.0.0.1
+  accessPointNameNI                    2c
+  pdpType                              IPV4
+  servedPDPPDNAddress                  10.0.0.1
+  dynamicAddressFlag                   TRUE
+  recordOpeningTime                    210629061509-0700
+  duration                             181
+  causeForRecClosing                   Normal Release
+  recordExtensions                      
+
+Tuesday June 29 2021
+<<<<OUTBOUND  06:18:40:947 Eventid:52001(7)
+
+CDR ELEMENTS FOLLOW
+  recordType                           RECORD
+  servedIMSI                           123456789
+  p_GWAddress                          10.0.0.1
+  chargingID                           1364546896
+  servingNodeAddress                   10.0.0.1
+  accessPointNameNI                    2c
+  pdpType                              IPV4
+  servedPDPPDNAddress                  10.0.0.1
+  dynamicAddressFlag                   TRUE
+  recordOpeningTime                    210629061509-0700
+  duration                             181
+  causeForRecClosing                   Normal Release
+  recordExtensions    
