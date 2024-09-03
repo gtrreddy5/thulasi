@@ -12,10 +12,10 @@ cdr_pattern = re.compile(r"CDR ELEMENTS FOLLOW(.*?)(?=Tuesday June 29 2021|$)", 
 cdr_records = cdr_pattern.findall(cdr_data)
 
 # Debugging: Print the raw extracted records
-print("Raw extracted records:")
-for record in cdr_records:
-    print(record)
-print("-----")
+# print("Raw extracted records:")
+# for record in cdr_records:
+#     print(record)
+# print("-----")
 
 # Process each CDR record into a list
 cdr_list = []
